@@ -174,7 +174,7 @@ class _MaterialControlsState extends State<MaterialControls>
         },
         iconData: Icons.speed,
         title: chewieController.optionsTranslation?.playbackSpeedButtonText ??
-            'Playback speed',
+            'Playback speeddddd',
       )
     ];
 
